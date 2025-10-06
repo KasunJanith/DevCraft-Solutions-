@@ -1,4 +1,4 @@
-# DEVcraft Solutions
+# DevCraft Solutions
 
 A portfolio website built with React + Vite + Tailwind CSS.
 
