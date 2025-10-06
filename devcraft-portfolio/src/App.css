@@ -1,0 +1,6 @@
+/* Custom app styles */
+#root {
+  min-height: 100vh;
+}
+
+/* Remove unused default Vite styles */
